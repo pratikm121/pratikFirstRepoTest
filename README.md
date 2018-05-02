@@ -1,2 +1,0 @@
-# pratikFirstRepoTest
-Test repo
